@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Simulates an analysis dataset about Pokemon level and weakness against fire
-# Author: Fares Alkorani
+# Author: Dongli Sun
 # Date: 26 March 2024
-# Contact: fares.alkorani@mail.utoronto.ca
+# Contact: dongli.sun@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: -
 # Any other information needed? -
